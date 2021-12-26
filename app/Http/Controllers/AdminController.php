@@ -8,6 +8,6 @@ class AdminController extends Controller
 {
     //
     public function showImportantInfo(){
-        return 'Here is password';
+        return 'Here is password 123';
     }
 }
